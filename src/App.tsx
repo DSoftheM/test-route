@@ -18,7 +18,7 @@ function Header() {
         <div>
             <Link to={"/"}>/</Link>
             <hr />
-            <Link to={"/start"}>/start</Link>
+            <Link to={"/start"}>/go to start</Link>
             <hr />
             <Link to={"/index"}>/index</Link>
             <hr />
